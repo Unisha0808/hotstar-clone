@@ -20,7 +20,7 @@ A front-end clone of Disney+ Hotstar showcasing popular movies, TV shows, and a 
 
 ## 📷 Screenshots
 
-![Screenshot 1](https://1drv.ms/i/c/7f2e9009c8739b37/EcPuI-p4a9pLgCwQ0U0MlV0BHGn1GnhV6PtzZTECAWM5eA?e=AnGtz5)
+![Screenshot 1](https://i.postimg.cc/VvL1JPpM/Screenshot-2025-07-22-072846.png)
 
 ## 📌 Author
 
